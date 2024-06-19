@@ -1,7 +1,7 @@
 # Hola a todos mi nombre es Felipe Villavicencio 😄😄
 
-## Sobre mi 
-### Ingeniero en informática egresado de Inacap La serena
+Sobre mi 
+Ingeniero en informática egresado de Inacap La serena
 <!--
 **FelipeVillavicencio/FelipeVillavicencio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

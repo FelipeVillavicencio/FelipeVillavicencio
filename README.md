@@ -2,6 +2,11 @@
 
 Sobre mi<br>
 Ingeniero en informática egresado de Inacap La serena
+
+## Experiencias de trabajo
+En la actualidad me encuentro desarrollando tareas de soporte para MediSmart<Br>
+Anteriormente trabaje de soporte para proyecto censo
+
 <!--
 **FelipeVillavicencio/FelipeVillavicencio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

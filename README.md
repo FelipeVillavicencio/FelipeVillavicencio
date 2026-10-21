@@ -5,10 +5,10 @@ Ingeniero en informática egresado de Inacap La serena
 
 ## Experiencias de trabajo
 En la actualidad me encuentro desarrollando tareas de FullStack para MediSmart<Br>
-Anteriormente trabaje de soporte para proyecto censo
+Anteriormente trabaje de soporte para proyecto censo y para MediSmart
 
 ## Conociemientos
-NextJS / TypeScript
+NextJS / TypeScript /
 .NET / AWS lambda / HTML / SQL Server
 <!--
 **FelipeVillavicencio/FelipeVillavicencio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
